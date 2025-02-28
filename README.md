@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @caokhai1331999
 - 👀 I’m interested in ...game programming
-- 🌱 I’m currently learning ...Graphic design
+- 🌱 I’m currently learning ...Graphic Game Engine and Graphic development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
